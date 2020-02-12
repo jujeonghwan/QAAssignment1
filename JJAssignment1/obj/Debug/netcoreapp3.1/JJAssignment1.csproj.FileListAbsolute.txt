@@ -1,0 +1,11 @@
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\bin\Debug\netcoreapp3.1\JJAssignment1.exe
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\bin\Debug\netcoreapp3.1\JJAssignment1.deps.json
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\bin\Debug\netcoreapp3.1\JJAssignment1.runtimeconfig.json
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\bin\Debug\netcoreapp3.1\JJAssignment1.runtimeconfig.dev.json
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\bin\Debug\netcoreapp3.1\JJAssignment1.dll
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\bin\Debug\netcoreapp3.1\JJAssignment1.pdb
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\obj\Debug\netcoreapp3.1\JJAssignment1.csprojAssemblyReference.cache
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\obj\Debug\netcoreapp3.1\JJAssignment1.AssemblyInfoInputs.cache
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\obj\Debug\netcoreapp3.1\JJAssignment1.AssemblyInfo.cs
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\obj\Debug\netcoreapp3.1\JJAssignment1.dll
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\obj\Debug\netcoreapp3.1\JJAssignment1.pdb
