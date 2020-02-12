@@ -9,6 +9,9 @@ using System;
 
 namespace JJAssignment1
 {
+    /// <summary>
+    /// Main Program class
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
